@@ -2,7 +2,7 @@
 
 Using Deep Q to create powerful bot capable to playing & winning various games. 
 
-##Algorithm
+## Algorithm
 
 ![alt text](/assets/QLearningAlgoBlock.png)
 
