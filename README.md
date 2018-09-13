@@ -1,4 +1,4 @@
-# DeepQ 🧠
+# 🧠 DeepQ
 
 Using Deep Q to create powerful bot capable to playing & winning various games. 
 
