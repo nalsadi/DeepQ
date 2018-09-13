@@ -11,6 +11,8 @@ Using Deep Q to create powerful bot capable to playing & winning various games.
 
 ![alt text](/assets/QLearningAlgoBlock.png)
 
-## Taxi
+## Games: 
+
+### Taxi
 
 Deep Q programmed bot capable of playing Taxi via Gym toolkit.
